@@ -39,7 +39,7 @@ RGI7_PATH = (
 )
 OUTPUT_DIR = (
     r"\\lv.is\lv\joklar\verkefni\2025 - AMOC-Jöklar-Orka"
-    r"\outlines-oggm-rgi7-like"
+    r"\RGI2010-2025-v7.0-G-06_iceland"
 )
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "RGI2025-v7.0-G-06_iceland.shp")
 
